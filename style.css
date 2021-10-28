@@ -4,12 +4,17 @@
 	padding: 0;
 }
 section{
-	margin-top: 60%;
+	padding: relative;
+	margin-top: 115%;
 	text-align: center;
 }
 img{
+	position: fixed;
+	top: 0;
+	left: 0;
 	width: 100%;
 	height: auto;
+	z-index: -1;
 }
 h1{
 	text-align: center;
