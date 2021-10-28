@@ -4,6 +4,7 @@
 	padding: 0;
 }
 section{
+	margin-top: 60%;
 	text-align: center;
 }
 img{
@@ -11,17 +12,13 @@ img{
 	height: auto;
 }
 h1{
-	position: absolute;
 	text-align: center;
-	top: 50%;
 	left: 2.5vw;
 	font-size: 108px;
 	font-family: "Poppins", sans-serif;
 	color: #fff;
 }
 ul{
-	position: absolute;
-	top: 90%;
 	left: calc(50vw - 27vw);
 	text-align: center;
 }
